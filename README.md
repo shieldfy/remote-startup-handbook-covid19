@@ -1,14 +1,12 @@
 #  😷 Remote startup handbook - COVID-19 edition 
 
-Hello everyone 👋, 
+Hello everyone 👋 
 
 In this hard time we hope everyone is safe.
 
-As the global community is trying their best to solve this rapidly grown situation surrounding the spread of COVID-19. Governments and individuals alike are trying to keep people safe and to contain the spread, by social distancing and when possible just staying at home. 
-
 This is a small guide we wrote at Shieldfy to manage our work during the COVID-19 virus outbreak. We thought to opensource the guide it may benefit any other company.
 
-> note: This guide is far from complete, it's just some tips and tricks we learned, so feel free to contribute and improve this guide.
+> Note: This guide is far from complete, it's just some tips and tricks we learned, so feel free to contribute and improve this guide.
 
 ## Table of contents
 
@@ -20,7 +18,7 @@ This is a small guide we wrote at Shieldfy to manage our work during the COVID-1
 
 ## 👨‍💻 Founders guide
 
-As a founder, it's very scary to imagine how the entire team can collaborate completely remotely if you haven't done it before. 
+As a founder, it's very scary to imagine how the entire team can collaborate completely remotely. 
 It's not an easy task but it's achievable, here are some tips for you.
 
 1. **Embrace the pros more than the cons.**
@@ -33,7 +31,7 @@ It's not an easy task but it's achievable, here are some tips for you.
    
     You have to rewrite your goals to be fit in short periods.
 
-    You must be very sharp on what you need to accomplish. It needs to be specifically metered with numbers (KPI).
+    You must be very sharp on what you need to accomplish. It needs to be specifically measured with numbers (KPI).
 
     Also, it's very important to communicate these numbers and KPIs with your team, they must understand how their work contributes to company growth.
 
@@ -71,11 +69,11 @@ It's not an easy task but it's achievable, here are some tips for you.
 
 2. **Understand the anatomy of working at home.**
 
-    Working from home is boring, distracting. You have to understand that in order to give your team reasonable tasks to finish.
+    Working from home is boring, distracting. You have to understand that to give your team reasonable tasks to finish.
 
-    Perfect tasks are well written short stories
+    Perfect tasks are the one that well written short stories
 
-    Don't calculate the working time as a bulk. No one will set for 6-8 hours straight even at the office. 
+    Don't calculate the working time as a bulk. No one will set down for 6-8 hours straight even at the office. 
 
     Instead, define a time ( 1-2 hours) that all the team should be online together and the rest of the day make it flexible for them. 
 
@@ -91,13 +89,13 @@ It's not an easy task but it's achievable, here are some tips for you.
 
 4. **Automate everything.**
 
-    As said before, the productivity is dropped. and human errors will be much higher. So in order to maintain the quality of your product, you must automate everything that can be automated.
+    As said before, the productivity is dropped. and human errors will be much higher. So to maintain the quality of your product, you must automate everything that can be automated.
 
     Automate your code review: You can use tools like `code linters` and services like `Sonarqube` and `Shieldfy` to automate the code review for you. This helps you to identify problems fast and improve your workflow.
 
     Automate your deployment: If you don't have that yet, please do it fast. Make it Push to deploy for your test, development or staging environment. Allow developers to deploy their code without getting back to you.
 
-    `Tools used:` [Github actions](https://github.com/feature/actions), [Sonarqube](http://sonarqube.org/), [Shieldfy](https://shieldfy.io)
+    `Tools used:` [Github actions](https://github.com/features/actions), [Sonarqube](http://sonarqube.org/), [Shieldfy](https://shieldfy.io)
 
 
 5. **Create developer handbook**
@@ -114,7 +112,7 @@ It's not an easy task but it's achievable, here are some tips for you.
 
     The first thing to do is to define a corner at your home and set up your disk, chair, and PC. 
 
-    It's important to make it organized and looks like a professional desk like you have at work.
+    It's important to make it organized and looks like a professional desk like you what have at work.
 
     > Don't ever make your default work from bed or couch
 
@@ -122,7 +120,7 @@ It's not an easy task but it's achievable, here are some tips for you.
 
 2. **Communicate, communicate and communicate.**
 
-    Communicate with your team leader and your fellow developers on a regular basis.
+    Communicate with your team leader and your fellow developers regularly.
 
     `Tools used:` [Google Meet](https://meet.google.com), [Slack](https://slack.com)
 
@@ -181,7 +179,7 @@ It's not an easy task but it's achievable, here are some tips for you.
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome.
-You can open Issue first to have your suggestion discussed before you actually create a PR.
+You can open Issue first to have your suggestion discussed before you create a PR.
 
 
 ## 🙏 Stay Home, Stay Safe
