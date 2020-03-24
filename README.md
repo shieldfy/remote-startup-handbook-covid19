@@ -112,7 +112,7 @@ It's not an easy task but it's achievable, here are some tips for you.
 
     The first thing to do is to define a corner at your home and set up your disk, chair, and PC. 
 
-    It's important to make it organized and looks like a professional desk like you what have at work.
+    It's important to make it organized and looks like a professional desk like what you have at work.
 
     > Don't ever make your default work from bed or couch
 
