@@ -9,7 +9,7 @@ Hello everyone, this is a small guide we wrote at Shieldfy to manage our work du
 * [Founders guide](#founders-guide)
 * [Team leader guide](#team-leaders-guide)
 * [Developer guide](#developers-guide)
-* [Tools & Services](#tools-services)
+* [Tools & Services](#tools--services)
 
 
 ## Founders guide
