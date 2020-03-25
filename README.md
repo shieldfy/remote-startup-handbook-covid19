@@ -1,33 +1,33 @@
-#  😷 Remote startup handbook - COVID-19 edition 
+#  😷 Remote Startup Handbook - COVID-19 Edition
 
 Hello everyone 👋 
 
 In this hard time we hope everyone is safe.
 
-This is a small guide we wrote at Shieldfy to manage our work during the COVID-19 virus outbreak. We thought to opensource the guide it may benefit any other company.
+This is a small guide we wrote at [Shieldfy](https://shieldfy.io) to manage our work during the COVID-19 virus outbreak. We thought to opensource the guide it may benefit any other company.
 
 > Note: This guide is far from complete, it's just some tips and tricks we learned, so feel free to contribute and improve this guide.
 
-## Table of contents
+## Table of Contents
 
 * [Founders guide](#-founders-guide)
-* [Team leader guide](#-team-leaders-guide)
-* [Developer guide](#-developers-guide)
+* [Team leaders guide](#-team-leaders-guide)
+* [Developers guide](#-developers-guide)
 * [Tools & Services](#-tools--services)
 
 
-## 👨‍💻 Founders guide
+## 👨‍💻 Founders Guide
 
 As a founder, it's very scary to imagine how the entire team can collaborate completely remotely. 
-It's not an easy task but it's achievable, here are some tips for you.
+It's not an easy task but it's achievable, here are some tips for you:
 
-1. **Embrace the pros more than the cons.**
+1. **Embrace the pros more than the cons**
    
     It's very important for your team to feel that you are on board with the idea of being work remotely. 
     This will give them the feeling that you trust them and gives them a sense of responsibility.
 
 
-2. **Re-organize your goals & KPIs**.
+2. **Re-organize your goals & KPIs**
    
     You have to rewrite your goals to be fit in short periods.
 
@@ -37,9 +37,9 @@ It's not an easy task but it's achievable, here are some tips for you.
 
     `Tools used:` [Trello](https://trello.com)
 
-3. **Your employees are your real capital, don't lose them**.
+3. **Your employees are your real capital, don't lose them**
 
-    I know it's a hard time, You may have to cut your costs to extend your runway. 
+    I know it's a hard time. You may have to cut your costs to extend your runway.
 
     The obvious choice will be layoff employees. Believe me, that is the most terrible choice you will have to make.
 
@@ -50,44 +50,44 @@ It's not an easy task but it's achievable, here are some tips for you.
     Instead, you can cut your costs from other resources (office, online/offline services .. etc). Also, you can communicate with your employees to reduce their salaries in this period instead of letting some of them go and they will be rewarded later.
 
 
-4. **Be transparent.**
+4. **Be transparent**
 
-    Transparency in this specific time is needed more than ever. Your team already knows that we are facing a hard time. So communicate with them, explain your plan and company situation. Ask for their help and they will respond, It's their company too.
+    Transparency in this specific time is needed more than ever. Your team already knows that we are facing a hard time. So communicate with them and explain your plan and company situation. Ask for their help and they will respond, It's their company too.
 
-## 👨‍💻 Team leaders guide
+## 👨‍💻 Team Leaders Guide
 
-1. **Communicate, communicate and communicate.**
+1. **Communicate, communicate and communicate**
 
-    Communication is the key, You have to communicate regularly with your team ( at least 2 times a day ). This will keep you sync with your team, who's working on what.
+    Communication is the key, You have to communicate regularly with your team (at least 2 times a day). This will keep you sync with your team, who's working on what.
 
     It depends on your methodology, but you can start the day with a standup meeting, and you can have a 1:1 catchup call with your team and ending the day with a quick recap.
 
-    > important note: Keep the meeting short (10-15 min) unless you have a good reason to make it long. 
+    > Important note: Keep the meeting short (10-15 min) unless you have a good reason to make it long.
 
     `Tools used:` [Google Meet](https://meet.google.com), [Slack](https://slack.com)
 
 
-2. **Understand the anatomy of working at home.**
+2. **Understand the anatomy of working at home**
 
-    Working from home is boring, distracting. You have to understand that to give your team reasonable tasks to finish.
+    Working from home is boring and distracting. You have to understand that to give your team reasonable tasks to finish.
 
-    Perfect tasks are the one that well written short stories
+    Perfect tasks are the ones that are well written short stories.
 
     Don't calculate the working time as a bulk. No one will set down for 6-8 hours straight even at the office. 
 
-    Instead, define a time ( 1-2 hours) that all the team should be online together and the rest of the day make it flexible for them. 
+    Instead, define a time (1-2 hours) that all the team should be online together and the rest of the day make it flexible for them.
 
-    Express to your team that it's ok if the kids' sounds appear in the meetings. Don't push your team members to be angry ( Family always first ).
+    Express to your team that it's ok if the kids' sounds appear in the meetings. Don't push your team members to be angry (family always first).
 
-3. **More carrots, less stick.**
+3. **More carrots, less stick**
 
-    It's very normal to see a drop in  productivity, especially in the first week or two. Please don't rush and punish your team for that. 
+    It's very normal to see a drop in productivity, especially in the first week or two. Please don't rush and punish your team for that.
 
     Instead, try to award them for good work. It's always paid off to show them how you appreciate their hard work.
 
-    `Tools used:` [Slack](https://slack.com), phone, be creative 😉 .
+    `Tools used:` [Slack](https://slack.com), phone, be creative 😉
 
-4. **Automate everything.**
+4. **Automate everything**
 
     As said before, the productivity is dropped. and human errors will be much higher. So to maintain the quality of your product, you must automate everything that can be automated.
 
@@ -106,26 +106,26 @@ It's not an easy task but it's achievable, here are some tips for you.
     `Tools used:`  [Github](https://github.com), Markdown
 
 
-## 👨‍💻 Developers guide
+## 👨‍💻 Developers Guide
 
-1. **You are not at home, you are at work inside your home.**
+1. **You are not at home, you are at work inside your home**
 
     The first thing to do is to define a corner at your home and set up your disk, chair, and PC. 
 
     It's important to make it organized and looks like a professional desk like what you have at work.
 
-    > Don't ever make your default work from bed or couch
+    > Don't ever make your default work from bed or couch.
 
-    Tell your family that you are at work and you need to focus. And reward them later with quality fun time with them, they deserve it.
+    Tell your family that you are at work and you need to focus. Reward them later with quality fun time with them, they deserve it.
 
-2. **Communicate, communicate and communicate.**
+2. **Communicate, communicate and communicate**
 
     Communicate with your team leader and your fellow developers regularly.
 
     `Tools used:` [Google Meet](https://meet.google.com), [Slack](https://slack.com)
 
 
-3. **Divide your time, but still be connected.**
+3. **Divide your time, but still be connected**
 
     Don't imagine that you will spend 6-8 hours on your PC, this is home at the end. Instead, be realistic and take a break with your family (ex: 15 min every 2-3 hours). 
 
@@ -134,44 +134,44 @@ It's not an easy task but it's achievable, here are some tips for you.
 
 ## 🔧 Tools & Services
 
-> note: we didn't list everything here, there is a lot of tools in the market, we just listed the tools we used and one or more similar product.
+> Note: We didn't list everything here, there is a lot of tools in the market, we just listed the tools we used and one or more similar product.
 
-> In communications: we are using `Zoom`, `Google meet`, `Slack`, `Clubhouse`, `Trello` and `Loom`.
+> In communications: We are using `Zoom`, `Google meet`, `Slack`, `Clubhouse`, `Trello` and `Loom`.
 
-> In technical automation: we are using `Github`, `Github action`, `Shieldfy`, `SonarQube`, `Sentry`.
+> In technical automation: We are using `Github`, `Github action`, `Shieldfy`, `SonarQube`, `Sentry`.
 
 1. Visual Communication (Meetings)
     - [Zoom](https://zoom.us)
     - [Google Meet](https://meet.google.com)
-2. All-day communication
+2. All-day Communication
     - [Slack](https://slack.com)
-3. Task management
+3. Task Management
     - [Jira](https://www.atlassian.com/software/jira)
     - [Clubhouse](https://clubhouse.com) 
     - [Asana](https://asana.com)
     - [Trello](https://trello.com) 
 4. Visual Feedback 
     - [Loom](https://loom.com) 
-5. Source Code management
+5. Source Code Management
     - [Github](https://github.com) 
     - [Gitlab](https://gitlab.com)
     - [Bitbucket](https://bitbucket.org)
 6. CI/CD
     - [Github Actions](https://github.com/features/action) 
     - [CircleCI](https://circleci.com) 
-7. Code review
+7. Code Review
     - linters 
     - [Code Climate](https://codeclimate.com)
     - [Codacy](https://codacy.com)
     - [SonarQube](http://sonarqube.org)
-7. Security review
+7. Security Review
     - [Shieldfy](https://shieldfy.io) 
     - [Snyk](https://snyk.io)
-9. Code coverage
+9. Code Coverage
     - CLI based code coverage 
     - [Codecov](https://codecov.io)
     - [Coveralls](http://coveralls.io)
-10. Error tracking
+10. Error Tracking
     - [Sentry](https://sentry.io) 
     - [Rollbar](http://rollbar.com)
 
